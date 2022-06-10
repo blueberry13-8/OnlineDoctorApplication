@@ -46,4 +46,4 @@ The admin inputs the diagnosis name
 **Kamil Almetov** (k.almetov@innopolis.university) <br>
 **Kirill Korolev** (k.korolev@innopolis.university) <br>
 **Nagim Isyanbayev** (n.isyanbayev@innopolis.university) <br>
-**Viktor Kovalev** (vi.kovalev@innopolis.university)
+**Viktor Kovalev** (vi.kovalev@innopolis.university) <br>
